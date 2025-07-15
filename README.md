@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Pritex32/pritex32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Prisca Ukanwa
 
-Here are some ideas to get you started:
+I'm a Data Scientist and Solutions Developer passionate about solving real-world problems in business and healthcare using data and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+- Built **PriscomSales**, a cloud-based sales and inventory system that helps Nigerian SMEs manage products, pricing, invoices, and customer credit seamlessly.
+- Developed a **multi-cancer prediction model** (brain, kidney, and lung cancers) to support early diagnosis and improve patient outcomes.
+- Experienced in **machine learning**, **predictive modeling**, **data preprocessing**, **EDA**, and **feature engineering**.
+- Skilled in **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, **Seaborn**, **Streamlit**, **Jupyter Notebook**, **Git/GitHub**, and **SQL**.
+- Strong at communicating insights and deploying user-friendly data apps that drive action.
+
+🌍 Open to remote roles, freelance projects, and global collaborations.
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/prisca-ukanwa/)
+
+
+
